@@ -1,2 +1,2 @@
 # OnlineStore
-Тестовое задача back (Sunrise IT Company)
+Тестовая задача back (Sunrise IT Company)
